@@ -18,9 +18,9 @@
 /* links van backgrounds: https://www.nasa.gov/sites/default/files/thumbnails/image/hubble_jo175_potw2318a.jpg, https://www.nasa.gov/sites/default/files/thumbnails/image/hubble_m4_stsci-01h0n3m9t3gxjh4mzcqk6b3ff2.png */
 .space-mode {
     --purple: black;
-    --pink: URL('/images/hubble1.webp');
-    --orange: URL('/images/hubble2.webp');
-    --blue: URL('/images/hubble1.webp');
+    --pink: url('/images/hubble1.webp');
+    --orange: url('/images/hubble2.webp');
+    --blue: url('/images/hubble1.webp');
     --aqua: black;
     --text-color: white;
     --text-color-opposite:black;
