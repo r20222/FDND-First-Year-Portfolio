@@ -1013,9 +1013,25 @@ button .dog{
 
 @media screen and (max-height: 50em) and (max-width: 37.5em) {
   
+  header{
+    height: 3rem;
+  }
+  header h1{
+    margin-top: .5rem;
+  }
+  .space-buttons{
+    height: 4rem;
+  }
+  .space-buttons h4{
+    margin-bottom: .5rem;
+  }
+  .space-buttons div{
+    margin-top:.5rem;
+  }
   main{
     background: transparent;
   }
+
   .touchscreen-projects{
     height:9rem;
     background: var(--pink);
@@ -1026,4 +1042,6 @@ button .dog{
     border: 3px solid #F15BB5;
   }
 }
+
+/* @media screen and (max-height: 45em) and (max-width: 37.5em) { */
 
