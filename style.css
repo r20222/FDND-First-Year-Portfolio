@@ -18,9 +18,9 @@
 /* links van backgrounds: https://www.nasa.gov/sites/default/files/thumbnails/image/hubble_jo175_potw2318a.jpg, https://www.nasa.gov/sites/default/files/thumbnails/image/hubble_m4_stsci-01h0n3m9t3gxjh4mzcqk6b3ff2.png */
 .space-mode {
     --purple: black;
-    --pink: url('/images/hubble1.webp');
-    --orange: url('/images/hubble2.webp');
-    --blue: url('/images/hubble1.webp');
+    --pink: url('images/hubble1.webp');
+    --orange: url('images/hubble2.webp');
+    --blue: url('images/hubble1.webp');
     --aqua: black;
     --text-color: white;
     --text-color-opposite:black;
@@ -202,7 +202,7 @@ main{
 }
 /* profile card */
 .projects-carousel a:nth-of-type(1), .touchscreen-projects button:nth-of-type(1){
-    background-image: url('/images/profile-card.webp');
+    background-image: url('images/profile-card.webp');
     background-size:cover;
 }
 
@@ -365,19 +365,19 @@ button .dog{
 
 /* countries */
 .projects-carousel a:nth-of-type(3), .touchscreen-projects button:nth-of-type(3){
-    background-image: url('/images/countries.webp');
+    background-image: url('images/countries.webp');
     background-size:cover;
 }
 
 /* iOdigital */
 .projects-carousel a:nth-of-type(4), .touchscreen-projects button:nth-of-type(4){
-    background-image: url('/images/iOdigital.webp');
+    background-image: url('images/iOdigital.webp');
     background-size:cover;
 }
 
 /* CSS week */
 .projects-carousel a:nth-of-type(5), .touchscreen-projects button:nth-of-type(5){
-    background-image: url('/images/CSS-week.webp');
+    background-image: url('images/CSS-week.webp');
     background-size:cover;
 }
 
@@ -445,13 +445,13 @@ button .dog{
 
 /* chat */
 .projects-carousel a:nth-of-type(7), .touchscreen-projects button:nth-of-type(7){
-    background-image: url('/images/chat_1.webp');
+    background-image: url('images/chat_1.webp');
     background-size:cover;
 }
 
 /* blog */
 .projects-carousel a:nth-of-type(8), .touchscreen-projects button:nth-of-type(8){
-    background-image: url('/images/blog_1.webp');
+    background-image: url('images/blog_1.webp');
     background-size:cover;
 }
 
