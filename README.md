@@ -5,7 +5,7 @@
 Om afbeeldingen in Webp en ICO te veranderen:
 * https://convertio.co/nl/webp-ico/
 
-Hoe je in CSS checkt over hover niet aanwezig is, en daarom waarschijnlijk touchscreen is:
+Hoe je in CSS checkt over hover niet aanwezig is, en het daarom waarschijnlijk touchscreen is:
 * https://stackoverflow.com/questions/11387805/media-query-to-detect-if-device-is-touchscreen
 
 Mooie space foto's van de Hubble:
