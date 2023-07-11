@@ -1,6 +1,6 @@
 # FDND-First-Year-Portfolio
 
-Voor de FDND eindejaars Expo heb ik een soort portfolio website gemaakt met een aantal van mijn beste projecten van het eerste jaar. Ik vond dit leuk om te doen en heb een aantal gekke dingen toegevoegd zoals een raket en een astronaut.
+Voor de FDND eindejaars Expo heb ik een portfolio website gemaakt met een aantal van mijn beste projecten van het eerste jaar. Ik vond dit leuk om te doen en heb een aantal gekke dingen toegevoegd zoals een raket en een astronaut.
 
 ![image](https://github.com/r20222/FDND-First-Year-Portfolio/assets/101579892/eeae7e75-e3b6-4cee-843c-ce8166561984)
 
