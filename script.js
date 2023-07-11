@@ -167,7 +167,7 @@ countries.forEach(country =>{
 }})
 
 function infoCountries() {
-    p.innerHTML = "Op deze webpagina kan je informatie vinden over alle landen ter wereld. Deze opdracht heb ik gemaakt om te oefenen met REST API."
+    p.innerHTML = "Op deze webpagina kan je informatie vinden over alle landen ter wereld. Dit project heb ik gemaakt om te oefenen met REST API."
     createSkillListItems(skillsCountries);
 
   // check touch/niet touch

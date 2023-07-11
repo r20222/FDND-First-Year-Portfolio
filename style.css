@@ -183,7 +183,7 @@ main{
     border-radius: 1rem;
     margin: 0 1rem;
     transition: .2s;
-    border: var(--border-color);
+    /* border: var(--border-color); */
     /* z-index:100; */
 }
 .projects-carousel a:hover{
@@ -1033,15 +1033,55 @@ button .dog{
   }
 
   .touchscreen-projects{
-    height:9rem;
+    height:12rem;
     background: var(--pink);
   }
   .touchscreen-projects button{
-    min-width:8rem;
-    height: 8rem;
+    min-width:10rem;
+    height: 10rem;
     border: 3px solid #F15BB5;
   }
 }
 
-/* @media screen and (max-height: 45em) and (max-width: 37.5em) { */
+/* @media screen and (max-height: 45em) {
+  body{
+    background-color: green;
+  }
+  main{
+    background: none;
+  }
+  .touchscreen-link.touchscreen-link-visible, 
+  .touchscreen-link-verve.touchscreen-link-visible, 
+  .touchscreen-link-countries.touchscreen-link-visible,
+  .touchscreen-link-iOdigital.touchscreen-link-visible,
+  .touchscreen-link-CSS.touchscreen-link-visible,
+  .touchscreen-link-tele.touchscreen-link-visible,
+  .touchscreen-link-chat.touchscreen-link-visible,
+  .touchscreen-link-blog.touchscreen-link-visible{
+    display: inline-block;
+    padding-right: 2rem;
+    padding-top:1rem;
+    font-size: 1.5rem;
+    color: var(--text-color);
+    text-decoration: underline #00BBF9;
+  }
+  .projects-carousel{
+    display: none;
+  }
+  .touchscreen-projects{
+    height:9rem;
+    background-color: var(--pink);
+  }
+ 
+  .touchscreen-projects button{
+    min-width:8rem;
+    height: 8rem;
+  }
+
+  
+}
+
+@media screen and (max-height: 40em) {
+
+} */
 
